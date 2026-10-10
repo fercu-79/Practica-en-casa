@@ -1,19 +1,21 @@
-## Practica en casa 1
+## Practica en casa
+
+Integrantes:
+- Fernanda Cueva Maldonado.
  
+## Practica 1
 
  09 de octubre del 2026
 
  Hoy cree una carpeta desde el cmd
 
- ## Practica en casa 2
-
+ ## Practica 2
 
  09 de octubre del 2026
 
  Cree un metodo y me mando mi primer resultado
 
  ![alt text](../assets/image1.png)
-
 
  ## Problema 1
 
