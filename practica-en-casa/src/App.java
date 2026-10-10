@@ -7,7 +7,7 @@ public class App {
         int z = x + y;
 
         runCalculation(z);
-        System.out.println("Calculo completo correctamente: " + z);
+        System.out.println("Calculo completo: " + z);
     }
     
     public static void runCalculation(int valor) {
