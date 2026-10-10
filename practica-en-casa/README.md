@@ -28,6 +28,6 @@ Integrantes:
 
  09 de octubre del 2026
 
- Cree mi primer metodo e hice un depurador
+ Cree mi primer depurador
 
 ![alt text](../assets/image2.png)
