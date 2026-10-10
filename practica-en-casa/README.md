@@ -21,3 +21,5 @@
  
  Se encontre un problema de conexion, que se arregla con estos comandos en git:
  - git config --global --unset http.proxy
+
+ 
